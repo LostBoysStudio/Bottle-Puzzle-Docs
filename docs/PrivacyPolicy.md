@@ -13,23 +13,14 @@ Welcome to Bottle Puzzle! This Privacy Policy explains how we collect, use, and 
 
 ## Information We Collect
 
-### Information You Provide
-- Game progress and scores
-- Level completion data
-- Game settings and preferences
-
 ### Automatically Collected Information
 - Device information (device type, operating system)
-- Game performance data
 - Ad interaction data (through Google AdMob)
 
 ## How We Use Your Information
 
 We use the collected information to:
-- Provide and improve the game experience
-- Track game progress and achievements
 - Display personalized advertisements
-- Analyze game performance and user behavior
 
 ## Advertising
 
@@ -43,7 +34,7 @@ Our app uses Google AdMob to display advertisements. AdMob may collect and proce
 
 ## Children's Privacy
 
-Our app is suitable for all ages and does not knowingly collect personal information from children under 13. If you are a parent and discover that your child has provided us with personal information, please contact us.
+Our app is suitable for all ages and does not knowingly collect personal information from children under 13.
 
 ## Third-Party Services
 
@@ -53,8 +44,6 @@ We use the following third-party services:
 ## Your Rights
 
 You have the right to:
-- Access your game data
-- Delete your game data
 - Opt-out of personalized advertising
 
 ## Changes to This Policy
@@ -64,7 +53,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-contact@lostboysstudio.com
+lostboysstudiollc@gmail.com
 
 ## California Privacy Rights
 
