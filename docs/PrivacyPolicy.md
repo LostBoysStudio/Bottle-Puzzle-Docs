@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for Bottle Puzzle
 
 Last updated: February 23, 2024
@@ -28,7 +33,7 @@ We use the collected information to:
 
 ## Advertising
 
-Our app uses Google AdMob to display advertisements. AdMob may collect and process data as described in their privacy policy. For more information about AdMob's data collection and usage, please visit: https://policies.google.com/privacy
+Our app uses Google AdMob to display advertisements. AdMob may collect and process data as described in their privacy policy. For more information about AdMob's data collection and usage, please visit: [Google Privacy Policy](https://policies.google.com/privacy)
 
 ## Data Storage
 

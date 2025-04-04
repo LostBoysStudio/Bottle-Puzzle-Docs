@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Bottle Puzzle Documentation
+description: Documentation for Bottle Puzzle iOS app
+baseurl: "/bottle-puzzle-docs" 
