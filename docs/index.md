@@ -22,4 +22,4 @@ Bottle Puzzle is a fun and challenging color sorting puzzle game where players o
 ## Contact
 
 For any questions about our documentation or app, please contact us at:
-contact@lostboysstudio.com 
+lostboysstudiollc@gmail.com 
